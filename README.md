@@ -9,8 +9,11 @@
 
 ## 🟫제어문
 - 1▫Javascript 조건문 실습하기
+- 2▫Javascript 반복문 실습하기
 
 ## 🟫배열과 함수
+- 1▫Javascript 배열 실습하기
+- 2▫Javascript 함수 실습하기
 
 ## 🟫객체
 
