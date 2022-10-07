@@ -21,6 +21,10 @@
 - 2▫JavaScript JSON 객체 실습하기
 
 ## 🟫jQuery 개요 및 선택자
+- 1▫JavaScript 객체 실습하기
+- 2▫JavaScript JSON 객체 실습하기
+- 3▫JavaScript  내장객체 실습하기
+- 4▫JavaScript  문서객체(DOM) 실습하기
 
 ## 🟫jQuery 주요함수
 
