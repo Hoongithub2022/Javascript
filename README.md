@@ -19,17 +19,17 @@
 ## 🟫객체
 - 1▫JavaScript 객체 실습하기
 - 2▫JavaScript JSON 객체 실습하기
-
-## 🟫jQuery 개요 및 선택자
-- 1▫JavaScript 객체 실습하기
-- 2▫JavaScript JSON 객체 실습하기
 - 3▫JavaScript  내장객체 실습하기
 - 4▫JavaScript  문서객체(DOM) 실습하기
 - 5▫JavaScript  브라우저 객체(BOM) 실습하기
 
-## 🟫jQuery 주요함수
+## 🟫jQuery 개요 및 선택자
 - 1▫jQuery 기초 실습하기
 - 2▫jQuery  선택자 실습하기
+
+## 🟫jQuery 주요함수
+- 1▫jQuery 탐색함수 실습하기
+- 2▫jQuery 조작함수
 
 ## 🟫jQuery 이벤트
 
