@@ -32,6 +32,9 @@
 - 2▫jQuery 조작함수
 
 ## 🟫jQuery 이벤트
+- 1▫jQuery 이벤트 실습하기
+- 2▫jQuery 이벤트 함수 실습하기
+- 3▫jQuery 이벤트 객체 실습하기
 
 ## 🟫Ajax 통신
 
